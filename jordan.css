@@ -1,0 +1,24 @@
+.laptop {
+    position: absolute;
+    display: block;
+    
+    
+}
+
+.panorama {
+    
+    
+}
+
+.backimg {
+    background-image: url(imgs/BACKGROUND2.jpg);
+    background-size: cover;
+    
+}
+
+.slide {
+    width: 6%;
+    
+}
+
+
